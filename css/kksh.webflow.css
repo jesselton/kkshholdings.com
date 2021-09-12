@@ -1,9 +1,9 @@
 h1 {
   margin-top: 0px;
   margin-bottom: 20px;
-  opacity: 0.25;
+  opacity: 1;
   font-family: 'Trajan pro', sans-serif;
-  font-size: 102px;
+  font-size: 48px;
   line-height: 0.9em;
   font-weight: 400;
   letter-spacing: -1px;
@@ -270,7 +270,7 @@ p {
 
 @media screen and (max-width: 991px) {
   h1 {
-    font-size: 96px;
+    font-size: 48px;
   }
 
   .flex-container {
@@ -304,7 +304,7 @@ p {
 
 @media screen and (max-width: 767px) {
   h1 {
-    font-size: 72px;
+    font-size: 32px;
   }
 
   .sticky-nav {
